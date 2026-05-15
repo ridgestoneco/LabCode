@@ -68,9 +68,7 @@ Validated on:
 
 ## Related Writeup
 
-LinkedIn writeup with screenshots, implementation notes, and additional context:
-
-[Add LinkedIn link here]
+LinkedIn writeup with screenshots, implementation notes, and additional context not currently present here.
 
 ## License
 
